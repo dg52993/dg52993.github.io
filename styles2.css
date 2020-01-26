@@ -1,3 +1,26 @@
-body {
-    background-color: chartreuse;
+h1{
+    color: whitesmoke
 }
+h2{ 
+    color: whitesmoke;
+}
+h3{ 
+    color: white;
+}
+h5{ 
+    color: white;
+}
+body {
+background-color: black;
+font-family: 'Muli', sans-serif;
+}
+form {
+    color: white;
+    font-family: 'Overpass', sans-serif;
+}
+table {
+    color: turquoise;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: xx-large;
+}
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
